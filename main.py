@@ -6,8 +6,8 @@ from database import Base, engine, SessionLocal
 from sqlalchemy.orm import Session
 import models
 import schemas
-
-# Create the database
+# manjeet madarchod
+# Create the database   
 Base.metadata.create_all(engine)
 
 # Initialize app
